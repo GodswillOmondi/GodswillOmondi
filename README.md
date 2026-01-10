@@ -39,11 +39,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godswill&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GodswillOmondi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godswill&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodswillOmondi&theme=tokyonight" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## Let's Connect
 
 <p align="left">
-  <a href="https://github.com/godswill" target="_blank">
+  <a href="https://github.com/GodswillOmondi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
