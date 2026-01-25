@@ -49,9 +49,24 @@
 ---
 
 ## Let's Connect
-
 <p align="left">
   <a href="https://github.com/GodswillOmondi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/godswillajuogadev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://wa.me/+254740275539" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
+
+  <a href="https://www.instagram.com/alluregraphicsoasis" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://godswillomondi.me/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
