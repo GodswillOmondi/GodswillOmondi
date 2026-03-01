@@ -24,16 +24,14 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind" />
 </p>
 
-### Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
-
 ### Design & Collaboration
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,git,github,ae,pr,ps" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,git,github" />
 </p>
-
+### Hobby
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,expo,ps,pr,ae,au" />
+</p>
 ---
 
 ## GitHub Stats
