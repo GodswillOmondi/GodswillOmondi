@@ -31,7 +31,7 @@
 
 ### Design & Collaboration
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,git,github, ae, pr, ps" />
 </p>
 
 ---
