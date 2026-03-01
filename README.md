@@ -20,17 +20,23 @@
 ##  Tech Stack & Tools
 
 ### Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,pnpm" />
+</p>
+
+### systems development
+<p align="right">
+<img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgress,pnpm,linux,c">
 </p>
 
 ### Design & Collaboration
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github" />
 </p>
+
 ### Hobby
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo,ps,pr,ae,au" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ps,pr,ae,au" />
 </p>
 ---
 
