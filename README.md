@@ -25,7 +25,7 @@
 </p>
 
 ### systems development
-<p align="right">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgress,pnpm,linux,c">
 </p>
 
