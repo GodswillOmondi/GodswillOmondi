@@ -26,7 +26,7 @@
 
 ### systems development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgress,pnpm,linux,c,java">
+<img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgres,pnpm,linux,c,java">
 </p>
 
 ### Design & Collaboration
