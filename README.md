@@ -21,12 +21,12 @@
 
 ### Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,pnpm" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,pnpm,spring" />
 </p>
 
 ### systems development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgress,pnpm,linux,c">
+<img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgress,pnpm,linux,c,java">
 </p>
 
 ### Design & Collaboration
