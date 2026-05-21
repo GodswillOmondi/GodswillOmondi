@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Godswill Omondi</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack | Mobile App Hobbyist</h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=godswill&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,7 +10,6 @@
 ##  About Me
 
 -  I build modern **web applications using the MERN Stack**
--  Hobbyist **mobile app developer** using **React Native & Expo**
 -  Passionate about **graphics design & UI/UX**
 -  I love **collaboration**, teamwork, and building in public
 -  Outside the keyboard, I enjoy **bike riding** and **hanging out with friends**
