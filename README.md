@@ -42,17 +42,32 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodswillOmondi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodswillOmondi&theme=tokyonight" />
 </p>
 
 ---
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GodswillOmondi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 ## Let's Connect
-<p align="left">
+<p align="center">
   <a href="https://github.com/GodswillOmondi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -61,11 +76,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://wa.me/+254740275539" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
-
-  <a href="https://www.instagram.com/alluregraphicsoasis" target="_blank">
+  <a href="https://www.instagram.com/godswill.omondi" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
@@ -73,3 +84,12 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+*Get things done...*
+
+
+</div>
