@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Godswill Omondi</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack </h3>
+<h3 align="center">Software Engineer | Fintech SWE </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=godswill&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,10 +9,9 @@
 
 ##  About Me
 
--  I build modern **web applications using the MERN Stack**
+-  Comfortable in building modern **SaaS platforms** in React, Go and SpringBoot
 -  Passionate about **graphics design & UI/UX**
 -  I love **collaboration**, teamwork, and building in public
--  Outside the keyboard, I enjoy **bike riding** and **hanging out with friends**
 
 ---
 
@@ -35,7 +34,7 @@
 
 ### Hobby
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ps,pr,ae,au" />
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
 </p>
 ---
 
@@ -60,7 +59,7 @@
 ## Let's Connect
 <p align="center">
   <a href="https://github.com/GodswillOmondi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+      <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
   <a href="https://www.linkedin.com/in/godswillajuogadev" target="_blank">
