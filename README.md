@@ -15,29 +15,6 @@
 
 ---
 
-##  Tech Stack & Tools
-
-### Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,pnpm,spring" />
-</p>
-
-### systems development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,vscode,py,postgres,pnpm,linux,c,java,docker,go">
-</p>
-
-### Design & Collaboration
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github" />
-</p>
-
-### Hobby
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
-</p>
----
-
 ## GitHub Stats
 
 <p align="center">
